@@ -1,0 +1,9 @@
+{
+	"name": "Merge001",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9b1cf73c-bba4-435a-8811-c57f3603bae0",
+		"tenantId": "ef18f02e-14bc-415b-9460-1d06b3de847b"
+	}
+}
